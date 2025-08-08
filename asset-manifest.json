@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/love-letter-site/static/css/main.d28ad8df.css",
-    "main.js": "/love-letter-site/static/js/main.e7793f1e.js",
+    "main.js": "/love-letter-site/static/js/main.0bcca023.js",
     "index.html": "/love-letter-site/index.html",
     "main.d28ad8df.css.map": "/love-letter-site/static/css/main.d28ad8df.css.map",
-    "main.e7793f1e.js.map": "/love-letter-site/static/js/main.e7793f1e.js.map"
+    "main.0bcca023.js.map": "/love-letter-site/static/js/main.0bcca023.js.map"
   },
   "entrypoints": [
     "static/css/main.d28ad8df.css",
-    "static/js/main.e7793f1e.js"
+    "static/js/main.0bcca023.js"
   ]
 }
