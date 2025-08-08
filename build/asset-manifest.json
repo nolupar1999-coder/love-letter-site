@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/love-letter-site/static/css/main.d28ad8df.css",
+    "main.js": "/love-letter-site/static/js/main.10c155ab.js",
+    "index.html": "/love-letter-site/index.html",
+    "main.d28ad8df.css.map": "/love-letter-site/static/css/main.d28ad8df.css.map",
+    "main.10c155ab.js.map": "/love-letter-site/static/js/main.10c155ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28ad8df.css",
+    "static/js/main.10c155ab.js"
+  ]
+}
